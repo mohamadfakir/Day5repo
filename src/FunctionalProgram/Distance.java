@@ -1,4 +1,4 @@
-package FunctionalProgram;
+package com.FunctionalProgram;
 
 import java.util.Scanner;
 
