@@ -1,4 +1,4 @@
-package FunctionalProgram;
+package com.FunctionalProgram;
 
 public class Windchill {
     public static void main(String[] args) {
