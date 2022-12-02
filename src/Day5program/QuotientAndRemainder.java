@@ -1,4 +1,5 @@
-package Day5program;
+package com.coreprogram;
+
 
 import java.util.Scanner;
 
