@@ -1,4 +1,5 @@
-package Day5program;
+package com.coreprogram;
+
 
 public class PowerOfTwo {
     public static void main(String[] args) {
